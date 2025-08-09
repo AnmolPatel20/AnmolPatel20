@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm ANMOL</h1>
 <h3 align="center">I’m passionate about turning data into insights and building AI-powered solutions. Currently exploring the world of Machine Learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolpatel20" alt="anmolpatel20" /></a> </p>
-
 - 🔭 I’m currently working on **ML Projects**
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
@@ -30,9 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolpatel20&show_icons=true&locale=en&layout=compact" alt="anmolpatel20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolpatel20&show_icons=true&locale=en" alt="anmolpatel20" /></p>
+<p>
+  <img align="right" src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Code Scrolling Animation">
+</p>
 
 
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
