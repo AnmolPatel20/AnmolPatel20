@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm ANMOL</h1>
 <h3 align="center">I’m passionate about turning data into insights and building AI-powered solutions. Currently exploring the world of Machine Learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolpatel20" alt="anmolpatel20" /></a> </p>
 
 - 🔭 I’m currently working on **ML Projects**
 
