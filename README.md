@@ -51,9 +51,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-<!-- Canva -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canva_Logo.png/600px-Canva_Logo.png" alt="Canva" width="50" height="50"/>
-
 </p>
 
 ---
