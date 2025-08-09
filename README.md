@@ -83,12 +83,12 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolpatel20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" 
-       alt="Code Scrolling Animation" 
-       width="300">
+  <!-- Left Column: Stats & Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=radical" alt="Most Used Languages" height="150">
+  
+  <!-- Right Column: GIF -->
+  <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Tech Anmol" width="250">
 </p>
