@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://anmolpatel20.github.io/My_Portfolio/](https://anmolpatel20.github.io/My_Portfolio/)
-
 - 📫 How to reach me **anmolkpatel42@gmail.com**
 
 - ⚡ Fun fact **My code works… until someone watches me run it.**
