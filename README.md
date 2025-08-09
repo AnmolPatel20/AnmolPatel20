@@ -84,11 +84,20 @@
 ---
 
 
-<p align="center">
-  <!-- Left Column: Stats & Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=radical" alt="Most Used Languages" height="150">
-  
-  <!-- Right Column: GIF -->
-  <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Tech Anmol" width="250">
-</p>
+## 📊 GitHub Overview
+
+<table>
+  <tr>
+    <!-- Left Column: Stats and Languages stacked -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=radical" alt="GitHub Stats" width="400">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=radical" alt="Most Used Languages" width="400">
+    </td>
+    <!-- Right Column: GIF -->
+    <td>
+      <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Tech Anmol" width="400">
+    </td>
+  </tr>
+</table>
+
