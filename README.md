@@ -10,23 +10,23 @@
 - ⚡ Fun fact: **My code works… until someone watches me run it.**
 
 ---
+<h2 align="center">📬 Connect With Me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anmol-patel-a99362284" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmol-patel-a99362284/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://www.youtube.com/c/anmolpatel20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@anmolpatel20" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="YouTube" width="50" height="50"/>
   </a>
-  <a href="https://instagram.com/techanmol.py" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/techanmol.py/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href="https://kaggle.com/techanmolpatel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/anmol_patel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anmolkpatel42@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
 
