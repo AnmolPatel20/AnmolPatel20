@@ -28,8 +28,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolpatel20&show_icons=true&locale=en&layout=compact" alt="anmolpatel20" /></p>
 
-<p>
-  <img align="right" src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Code Scrolling Animation">
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" 
+       alt="Code Scrolling Animation" 
+       width="300">
 </p>
+
 
 
