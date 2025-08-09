@@ -14,12 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-patel-a99362284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-patel-a99362284" height="30" width="40" /></a>
-<a href="https://kaggle.com/techanmolpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="techanmolpatel" height="30" width="40" /></a>
-<a href="https://instagram.com/techanmol.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techanmol.py" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anmolpatel20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmolpatel20" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anmolkpatel42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anmolkpatel42" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anmolkpatel42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anmolkpatel42" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anmol_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anmol_patel" height="30" width="40" /></a>
+<a href="https://instagram.com/techanmol.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techanmol.py" height="30" width="40" /></a>
+<a href="https://kaggle.com/techanmolpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="techanmolpatel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anmol_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anmol_patel" height="30" width="40" /></a>
 </p>
 
