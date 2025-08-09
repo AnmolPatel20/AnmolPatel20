@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -43,7 +43,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" alt="SQLAlchemy" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"/>
