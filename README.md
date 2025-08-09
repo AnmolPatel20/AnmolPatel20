@@ -90,9 +90,9 @@
   <tr>
     <!-- Left Column: Stats and Languages stacked -->
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=radical" alt="GitHub Stats" width="400">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=github_dark" alt="GitHub Stats" width="400">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=radical" alt="Most Used Languages" width="400">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=github_dark" alt="Most Used Languages" width="400">
     </td>
     <!-- Right Column: GIF -->
     <td>
