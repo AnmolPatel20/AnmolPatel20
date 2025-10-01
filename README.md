@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML Projects**  
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://anmolpatel20.github.io/My_Portfolio/)  
+- 👨‍💻 All of my projects are available at [My Portfolio]((https://anmolpatel20.github.io/Anmol_Portfolio/))  
 - 📫 How to reach me **anmolkpatel42@gmail.com**  
 - ⚡ Fun fact: **My code works… until someone watches me run it.**
 
@@ -67,7 +67,7 @@
     </td>
     <!-- Right Column: GIF -->
     <td>
-      <img src="https://raw.githubusercontent.com/AnmolPatel20/My_Portfolio/main/Code_Scrolling_Screen_GIF%20%28online-video-cutter.com%29.gif" alt="Tech Anmol" width="400">
+      <img src="https://github.com/AnmolPatel20/Anmol_Portfolio/blob/main/Code_Scrolling_Screen_GIF%20(online-video-cutter.com)%20(1).gif" alt="Tech Anmol" width="400">
     </td>
   </tr>
 </table>
