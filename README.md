@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML Projects**  
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**  
-- 👨‍💻 All of my projects are available at [My Portfolio]((https://anmolpatel20.github.io/Anmol_Portfolio/))  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anmolpatel20.github.io/Anmol_Portfolio/)
 - 📫 How to reach me **anmolkpatel42@gmail.com**  
 - ⚡ Fun fact: **My code works… until someone watches me run it.**
 
