@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/Python%20%20SQL%20%20ML%20%20Stats.png" width="100%">
 </p>
 <h1 align="center">Hey 👋, I'm ANMOL</h1>
-<h3 align="center">I’m passionate about turning data into insights and building AI-powered solutions. Currently exploring the world of Machine Learning.</h3>
+<h3 align="left">I’m passionate about turning data into insights and building AI-powered solutions.</h3> 
+<h3 align="left">Currently exploring the world of Machine Learning.</h3>
 
 ---
 
