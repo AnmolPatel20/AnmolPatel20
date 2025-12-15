@@ -21,7 +21,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@anmolpatel20" target="_blank">
+  <a href="https://www.youtube.com/@AnmolPy" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="YouTube" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
