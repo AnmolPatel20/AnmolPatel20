@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/Python%20%20SQL%20%20ML%20%20Stats.png" width="100%">
+  <img src="https://github.com/AnmolPatel20/Songs_Using_Python/blob/main/bannergh.png" width="100%">
 </p>
 <h1 align="center">Hey 👋, I'm ANMOL</h1>
 <h3 align="left">I’m passionate about turning data into insights and building AI-powered solutions.</h3> 
