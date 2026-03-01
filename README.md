@@ -1,40 +1,61 @@
+<!-- ================= Banner ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/banner.png" width="100%">
 </p>
-<h1 align="center">Hey 👋, I'm ANMOL</h1>
-<h3 align="left">I’m passionate about turning data into insights and building AI-powered solutions.</h3> 
-<h3 align="left">Currently exploring the world of Machine Learning.</h3>
 
----
+<!-- ================= Name & Specialization ================= -->
+<h1 align="center">Anmol Patel</h1>
+<p align="center"><strong>Data Science | Machine Learning | Deep Learning</strong></p>
 
-- 🔭 I’m currently working on **ML Projects**  
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://anmolpatel20.github.io/Anmol_Portfolio/)
-- 📫 How to reach me **anmolkpatel42@gmail.com**  
-- ⚡ Fun fact: **My code works… until someone watches me run it.**
-
----
-<h2 align="center">📬 Connect With Me</h2>
+<!-- ================= Professional Statement ================= -->
+<h3 align="center">
+Building robust Machine Learning systems for reliable, real-world intelligent solutions.
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anmol-patel-a99362284/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@AnmolPy" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="YouTube" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/techanmol.py/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:anmolkpatel42@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" height="50"/>
-  </a>
+Focused on statistical modeling, intelligent system design, and end-to-end ML deployment.
 </p>
 
 ---
+
+<!-- ================= Professional Summary ================= -->
+- Developing end-to-end Machine Learning systems and applied AI solutions.
+- Focused on Machine Learning, Deep Learning, and statistical model optimization.
+- Portfolio: https://anmolpatel20.github.io/Anmol_Portfolio/
+- Contact: anmolkpatel42@gmail.com
+
+---
+
+<!-- ================= Contact Section ================= -->
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="https://anmolpatel20.github.io/Anmol_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" style="transform: scale(1.3);">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/anmol-patel-a99362284/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" style="transform: scale(1.3);">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@AnmolPy">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge" style="transform: scale(1.3);">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/techanmol.py/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge" style="transform: scale(1.3);">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:anmolkpatel42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge" style="transform: scale(1.3);">
+  </a>
+</p>
+
+
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -58,8 +79,6 @@
 
 ---
 
-
-## 📊 GitHub Overview
 
 ## 📊 Research & Development Overview
 
