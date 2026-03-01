@@ -61,18 +61,11 @@
 
 ## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <!-- Left Column: Stats and Languages stacked -->
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=github_dark" alt="GitHub Stats" width="400">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=github_dark" alt="Most Used Languages" width="400">
-    </td>
-    <!-- Right Column: GIF -->
-    <td>
-      <img src="https://github.com/AnmolPatel20/Anmol_Portfolio/blob/main/Code_Scrolling_Screen_GIF%20(online-video-cutter.com)%20(1).gif" alt="Tech Anmol" width="400">
-    </td>
-  </tr>
-</table>
+## 📊 Research & Development Overview
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolPatel20&theme=github_dark" width="450"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPatel20&layout=compact&theme=github_dark&hide_border=true" width="450"/>
+</div>
 
