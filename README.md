@@ -1,13 +1,11 @@
 <!-- Profile Views -->
-<p align="left" style="margin:0;">
-  <img src="https://komarev.com/ghpvc/?username=anmolpatel20&color=red&style=plastic" />
-</p>
-
 <!-- ================= Banner ================= -->
 <p align="center" style="margin-top:0;">
   <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/banner.png" width="100%">
 </p>
-
+<p align="right" style="margin:0;">
+  <img src="https://komarev.com/ghpvc/?username=anmolpatel20&color=red&style=plastic" />
+</p>
 <!-- ================= Name ================= -->
 <h1 align="center">
   Anmol Patel
