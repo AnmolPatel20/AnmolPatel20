@@ -31,13 +31,19 @@ Focused on statistical modeling, intelligent system design, and end-to-end ML de
 - Focused on Machine Learning, Deep Learning, and statistical model optimization.
 - Portfolio: https://anmolpatel20.github.io/Anmol_Portfolio/
 - Contact: anmolkpatel42@gmail.com
+- **Resume:** 
+  [Open](https://github.com/AnmolPatel20/AnmolPatel20/blob/main/resume.pdf) | 
+  [Download](https://github.com/AnmolPatel20/AnmolPatel20/raw/main/resume.pdf)
 
 ---
 
 <!-- ================= Contact Section ================= -->
 <h2 align="center">Contact</h2>
 
+
+
 <p align="center">
+  
   <a href="https://anmolpatel20.github.io/Anmol_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
