@@ -158,3 +158,29 @@ Focused on statistical modeling, intelligent system design, and end-to-end ML de
 </tr>
 
 </table>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img 
+src="https://github-readme-streak-stats-salesp07.vercel.app?user=anmolpatel20&theme=dark&background=0D1117&ring=FF2400&fire=FF3C00&currStreakLabel=FF4D4D&sideLabels=FF4D4D&dates=AAAAAA&border_radius=15"
+width="520"
+/>
+
+</td>
+
+<td align="center">
+
+<img 
+src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmolpatel20&layout=compact&langs_count=4&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=CCCCCC&border_radius=15&hide=HTML"
+width="440"
+/>
+
+</td>
+</tr>
+</table>
