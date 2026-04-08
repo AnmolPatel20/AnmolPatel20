@@ -171,7 +171,7 @@ Focused on statistical modeling, intelligent system design, and end-to-end ML de
 
 ---
 
-<h2 align="center">GitHub </h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <table align="center">
 <tr>
