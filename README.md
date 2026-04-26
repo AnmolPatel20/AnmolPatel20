@@ -194,3 +194,6 @@ width="440"
 </td>
 </tr>
 </table>
+<p align="right" style="margin:0;">
+  <img src="https://komarev.com/ghpvc/?username=anmolpatel20&color=FF2400&style=plastic" />
+</p>
