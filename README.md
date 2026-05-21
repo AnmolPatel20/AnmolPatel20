@@ -1,6 +1,6 @@
 <!-- Profile Views -->
 <!-- ================= Banner ================= -->
-<p align="right" style="margin:0;">
+<p align="left" style="margin:0;">
   <img src="https://komarev.com/ghpvc/?username=anmolpatel20&color=FF2400&style=plastic" />
 </p>
 <p align="center" style="margin-top:0;">
