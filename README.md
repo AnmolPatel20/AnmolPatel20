@@ -8,10 +8,6 @@
 </p>
 
 <!-- ================= Name ================= -->
-<h1 align="center">
-  Anmol Patel
-</h1>
-
 <h3 align="center">
   <strong>Data Science | Machine Learning | Deep Learning</strong>
 </h3>
