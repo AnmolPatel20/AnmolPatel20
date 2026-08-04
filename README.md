@@ -31,6 +31,39 @@ Focused on statistical modeling, intelligent system design, and end-to-end ML de
   [Open](https://github.com/AnmolPatel20/AnmolPatel20/blob/main/resume.pdf) | 
   [Download](https://github.com/AnmolPatel20/AnmolPatel20/raw/main/resume.pdf)
 
+<!-- ================= GATE DA 2027 ================= -->
+<table>
+<tr>
+
+<td width="450" align="center">
+<a href="https://anmolpatel20.github.io/GATE-DA/">
+  <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/GATEDA.png"
+       width="500"
+       alt="GATE DA 2027">
+</a>
+</td>
+
+<td>
+
+<b>Preparing for GATE Data Science & AI 2027</b>
+<br>
+A one-stop hub for GATE DA preparation with handwritten notes, solved PYQs, wall notes, and formula sheets—continuously updated as I progress.
+
+<br>
+✔️ Comprehensive Handwritten Notes<br>
+✔️ Topic-wise PYQs with Explanations<br>
+✔️ Short Wall Notes for Quick Revision<br>
+✔️ Formula Sheets & Cheat Sheets
+<br>
+<a href="https://anmolpatel20.github.io/GATE-DA/">
+<b>Explore the Complete Collection →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 <!-- ================= Contact Section ================= -->
