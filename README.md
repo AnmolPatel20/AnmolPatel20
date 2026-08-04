@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=anmolpatel20&color=FF2400&style=plastic" />
 </p>
 <p align="center" style="margin-top:0;">
-  <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/AnmolPatel20/Songs_Using_Python/main/Github_Banner.png" width="100%">
 </p>
 
 <!-- ================= Name ================= -->
