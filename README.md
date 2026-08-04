@@ -171,10 +171,11 @@ Focused on statistical modeling, intelligent system design, and end-to-end ML de
 
 <table align="center">
 <tr>
+
 <td align="center">
 
-<img 
-src="https://github-readme-streak-stats-salesp07.vercel.app?user=anmolpatel20&theme=dark&background=0D1117&ring=FF2400&fire=FF3C00&currStreakLabel=FF4D4D&sideLabels=FF4D4D&dates=AAAAAA&border_radius=15"
+<img
+src="https://github-readme-streak-stats-salesp07.vercel.app?user=anmolpatel20&theme=dark&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=AAAAAA&border_radius=15"
 width="520"
 />
 
@@ -182,11 +183,12 @@ width="520"
 
 <td align="center">
 
-<img 
-src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmolpatel20&layout=compact&langs_count=4&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=CCCCCC&border_radius=15&hide=HTML"
+<img
+src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmolpatel20&layout=compact&langs_count=4&theme=dark&bg_color=0D1117&title_color=2563EB&text_color=CCCCCC&border_radius=15&hide=HTML"
 width="440"
 />
 
 </td>
+
 </tr>
 </table>
